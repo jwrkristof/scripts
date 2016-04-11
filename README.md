@@ -6,7 +6,7 @@ Print alle bestanden uit met je geprefereerde methode. Eens een goeie en betrouw
 
 # Waar zitten ze eigenlijk?
 
-Alle scripts zie je online in [gh.jwronline.be/jwr-shuttle](http://gh.jwronline.be/jwr-shuttle), op github [hier](https://github.com/jwronline/jwr-shuttle/tree/gh-pages).
+Alle scripts zie je online in [gh.jwronline.be/scripts](http://gh.jwronline.be/scripts), op github [hier](https://github.com/jwronline/scripts).
 
 # Progress
 
