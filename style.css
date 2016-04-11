@@ -399,6 +399,10 @@ table tfoot {
   display: table-row-group;
 }
 
+table, tr, td, th, tbody, thead, tfoot {
+  page-break-inside: avoid !important;
+}
+
 table th {
   font-weight: bold;
 }
@@ -408,6 +412,7 @@ table td {
   padding: 6px 13px;
   border: 1px solid #ddd;
 }
+
 
 table tr {
   background-color: #fff;
