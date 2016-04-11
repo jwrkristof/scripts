@@ -1,5 +1,7 @@
 # Scripts
 
+[![Build Status](https://travis-ci.org/jwronline/scripts.svg?branch=gh-pages)](https://travis-ci.org/jwronline/scripts)
+
 Dit zijn de scripts die gebruikt worden voor het uitvoeren van een space shuttle-missie met het gebruik van [shuttle-command](https://github.com/shuttle-command).
 
 Print alle bestanden uit met je geprefereerde methode. Eens een goeie en betrouwbare manier gevonden is om van markdown naar pdf te gaan, wordt die hierop gezet.
