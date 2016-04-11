@@ -392,7 +392,11 @@ table {
   .noprint {
     display: none;
   }
-  thead, tfoot { display: table-row-group }
+}
+
+table thead,
+table tfoot {
+  display: table-row-group;
 }
 
 table th {
