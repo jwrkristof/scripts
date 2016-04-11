@@ -11,7 +11,7 @@ env:
         - GH_PROJECT_NAME=scripts
         - GH_EMAIL=hello@haroen.me
         - GH_USER=haroenv
-        - GH_MESSAGE=Automatic built by travis [ci skip]
+        - GH_MESSAGE="compiled pdf [ci skip]"
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install xfonts-75dpi
@@ -23,11 +23,8 @@ script:
   - jekyll build
   - bash pdf.sh
 after_success:
-  - git add -f .
   - git config user.email "${GH_EMAIL}"
   - git config user.name "${GH_USER}"
   - git commit -am "${GH_MESSAGE}"
-  - git status
-  - git config --list
   # Any command that using GH_OAUTH_TOKEN must pipe the output to /dev/null to not expose your oauth token
   - git push https://${GH_OAUTH_TOKEN}@github.com/${GH_OWNER}/${GH_PROJECT_NAME} HEAD:gh-pages > /dev/null 2>&1
