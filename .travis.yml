@@ -11,7 +11,7 @@ env:
         - GH_PROJECT_NAME=scripts
         - GH_EMAIL=hello@haroen.me
         - GH_USER=haroenv
-        - GH_MESSAGE=Automatic build by travis [ci skip]
+        - GH_MESSAGE=Automatic built by travis [ci skip]
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y wkhtmltopdf
