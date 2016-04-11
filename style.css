@@ -393,6 +393,13 @@ table {
   word-break: keep-all;
 }
 
+@media print {
+  .noprint {
+    display: none;
+  }
+  thead, tfoot { display: table-row-group }
+}
+
 table th {
   font-weight: bold;
 }
