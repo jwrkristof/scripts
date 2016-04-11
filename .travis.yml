@@ -14,7 +14,6 @@ env:
         - GH_MESSAGE=Automatic built by travis [ci skip]
 before_install:
   - sudo apt-get -qq update
-  # - sudo apt-get install -y wkhtmltopdf
   - sudo apt-get install xfonts-75dpi
   - wget http://download.gna.org/wkhtmltopdf/0.12/0.12.2/wkhtmltox-0.12.2_linux-trusty-amd64.deb
   - sudo dpkg -i wkhtmltox-0.12.2_linux-trusty-amd64.deb
@@ -28,5 +27,7 @@ after_success:
   - git config user.email "${GH_EMAIL}"
   - git config user.name "${GH_USER}"
   - git commit -am "${GH_MESSAGE}"
+  - git status
+  - git config --list
   # Any command that using GH_OAUTH_TOKEN must pipe the output to /dev/null to not expose your oauth token
   - git push https://${GH_OAUTH_TOKEN}@github.com/${GH_OWNER}/${GH_PROJECT_NAME} HEAD:gh-pages > /dev/null 2>&1
