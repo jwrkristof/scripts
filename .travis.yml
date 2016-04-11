@@ -1,9 +1,9 @@
 language: ruby
 rvm:
   - 2.0.0
-branches:
-  only:
-    - gh-pages
+# branches:
+#   only:
+#     - gh-pages
 env:
     global:
         secure: "dcLV9ARahUREp9QgIHTphMXAtw9obN7RbgXoytJz6kbMIBQTjW1hbnFvWCHnaYoac/WQ2rCEqBU/h/4VRbe4H0ypRHop5TihgLX01OpRJFtM2cGTcaB70fQiwh473C0u9vjlThrzrJ7Ig5I/HcEmC4Fcwe/abVcTQO4YZQv7OM3DLSWzHfXdIAvM92IGejbaicvZgUbaL/CKqNVbq1UFq0gRLSEHQuRwlYHdzzsmIIS9Si6GrckXF7DiyP+Vc61ajo0EqpBcgPCjJ7x2/roDZHt5NbYuejr/KviW4cSq2jG8dxBM/rqp95Lh0gkxhkYpNA4YAHGjIfNGVAIvcXwuXNtwWVo2soqJzrlgrFEbI0BPqu52lENHToIT0EDzNkUEnaLPVqXkmZd2IvshsAJj8KmJkq9Z0UUdslCY4I2CpIxpj+hKKgP8OV78VHuCzWvejL2Y41YKkfpB/aOw9eYZZ5NzYNWSf1zNfpwbOZ2h7wrLMUCNZf3riR44JSTKlLcMNbSzO/ACULpinpd493pxAC+XATjysnPsmzQtSu5GKeiYSeUg3tNLQ/Y4hxpwBaQJo1nh6SOH3N48pD2IqSQg5v5hAaYsbJTIbcbsyjYu7sxOq+aiSlyY73u5L4tPTPCx9O4V6100D2hMvQM/UTIy/okxY7wQyWpHu9s2lluf+Vw="
