@@ -135,8 +135,8 @@ layout: default
 |  | LD |  |  | "Middendek, we zijn nu klaar om aan Freedom te koppelen. Alle loszittende voorwerpen vastmaken. Bereid je voor op het overstappen van de bemanning." |
 |  | PS 1 | antwoord |  | "Roger. Maken alle loszittende voorwerpen vast." |
 | T+0:47:00 | WXT | controleer meters en geef vluchtgegevens |  | "Verslag koppeling: relatieve afstand: … voet, relatieve snelheid: … fps." |
-|  | SSO |  |  | "Japetus, WE RADEN AAN GEDURENDE 12 SECONDEN AF TE REMMEN MET HET VOORSTE RCS-SYSTEEM." |
-|  | CMDR |  |  | "Roger. VOEREN CORRECTIE NU UIT." |
+|  | SSO |  |  | "Japetus, We raden aan gedurende 12 seconden af te remmen met het voorste RCS-systeem." |
+|  | CMDR |  |  | "Roger. Voeren correctie nu uit." |
 | T+0:48:00 | LD | indien het EVA-team nog steeds buiten is, verwittig hen dan dat het tijd is om binnen te komen |  | "EVA-team, alle activiteiten stopzetten. Jullie moeten nu in de pendel terugkeren." |
 |  | MS1 OF 2 |  |  | "Roger. We zitten nu in onze stoel." |
 | T+0:49:00 | WXT |  |  | "Japetus, je bent nu in manuele en visuele nadering naar Space Station Freedom." |
