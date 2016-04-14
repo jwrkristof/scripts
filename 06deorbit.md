@@ -41,7 +41,7 @@ layout: default
 | T+1:26:10 | CMDR | Begin eerste S-bocht |  |  |
 |  | PAO | eerste S-bocht |  | "De ruimtependel voert nu een reeks S-bochten uit. Dit moet de pendel genoeg afremmen voor een normale landing." |
 | T+1:27:00 | WXT | Lees gegevens af van de vluchtmeters | <kbd>OPS</kbd> 200 <kbd>EXEC</kbd> | "Japetus. Ik traceer jullie nu." |
-|  |  | <kbd>ITEM</kbd> 005 <kbd>EXEC</kbd> | "Japetus, we volgen je op een hoogte van … zeemijl. De afstand is … zeemijl en de snelheid is mach … Hoogte en afstand zijn normaal." |
+|  |  | <kbd>ITEM</kbd> 005 <kbd>EXEC</kbd> | | "Japetus, we volgen je op een hoogte van … zeemijl. De afstand is … zeemijl en de snelheid is mach … Hoogte en afstand zijn normaal." |
 |  | CMDR |  |  | "Roger." |
 |  | WXT | Geef het weerbericht | <kbd>OPS</kbd> 130 <kbd>EXEC</kbd> | "Japetus. Ik neem het weer nu op." |
 |  |  |  | <kbd>ITEM</kbd> 320 <kbd>EXEC</kbd> | "Japetus, alle omstandigheden zijn normaal voor een landing op … westenwind …, temperatuur … graden en barometerstand is …" |
