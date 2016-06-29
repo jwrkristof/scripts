@@ -146,7 +146,7 @@ TODO: checklist 10 en verder
 
 | OPS | ITEM | extra    |
 |-----|------|----------|
-| 130 | 624  | emergency weather |
+| 130 | 642  | emergency weather |
 |     | 145  | landing weather |
 | 200 | 006  | tracking at launch |
 | 274 | 320  | satellite tracking |

@@ -50,7 +50,7 @@ Alle posities in mission control voeren nu de pre-launch computerconfiguratie in
 | MET (mission elapsed time) | Wie is aan de beurt | Wat gebeurt er | Scherm, knopjes, klavier, schakelaars | Wat wordt er gezegd? |
 | --- | --- | --- | --- | --- |
 | | FD | overleg met WXT || "Weather and Tracking, zijn we ‘go’ voor de lancering?" |
-| | WXT | raadpleeg het weerbericht van de lanceerbasis en van de noodlandingbases en vermeld de bases die ‘go’ zijn om gebruikt te worden als de lancering op tijd gebeurt | lees het weerbericht (<kbd>OPS</kbd>130<kbd>EXEC</kbd>) met betrekking tot de noodlandingbases(<kbd>ITEM</kbd>624<kbd>EXEC</kbd>) en kies | "Launch Director, de weersomstandigheden in Dakar maken een tal landing [mogelijk/onmogelijk] indien nodig, en Edwards kan [een/geen] AOA ontvangen." |
+| | WXT | raadpleeg het weerbericht van de lanceerbasis en van de noodlandingbases en vermeld de bases die ‘go’ zijn om gebruikt te worden als de lancering op tijd gebeurt | lees het weerbericht (<kbd>OPS</kbd>130<kbd>EXEC</kbd>) met betrekking tot de noodlandingbases(<kbd>ITEM</kbd>642<kbd>EXEC</kbd>) en kies | "Launch Director, de weersomstandigheden in Dakar maken een tal landing [mogelijk/onmogelijk] indien nodig, en Edwards kan [een/geen] AOA ontvangen." |
 | | | | lees het weerbericht met betrekking tot de lanceerbasis en kies | "Het weer op de kaap is [goed/niet] goed. we zijn [‘go’/’no go’] voor de lancering." |
 
 ## Cabin Leak Check (geen lekken in de cabine?)
