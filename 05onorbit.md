@@ -21,7 +21,7 @@ layout: default
 |  |  | begin de controle: | <kbd>ITEM</kbd> 080 <kbd>EXEC</kbd> | "Spacecraft Systems?" |
 |  | SSO | antwoord aan FD en enter [GO] |  | "SSO is ‘go’." |
 |  | FD |  |  | "Environmental life support systems?" |
-|  | ELSS | antwoord aan FD en enter [GO] |  | "ELLS is ‘go’." |
+|  | ELSS | antwoord aan FD en enter [GO] |  | "ELSS is ‘go’." |
 |  |  | | <kbd>ITEM</kbd> 195 <kbd>EXEC</kbd> |  |  |
 |  | FD |  |  | "Launch and Landing?" |
 |  | LD | antwoord aan FD en enter [GO] |  | "Launch and Landing IS ‘go’." |

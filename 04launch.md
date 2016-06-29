@@ -120,7 +120,7 @@ De lancering
 | T+0:08:10 | CMDR | controleer MECO; indien MECO niet gebeurd is, manueel uitvoeren!! | controleer scherm voor MECO!! | "Houston, we hebben Main Engine Cut-Off." |
 |  | SSO | bevestig MECO |  | "Roger, Japetus. we bevestigen MECO." |
 |  | PAO | rapporteer over MECO |  | "Main Engine Cut-Off gebeurde op tijd om … minuten en … seconden Mission Elapsed Time." |
-| FD | meld standby voor ET SEP |  | "Standby voor ET SEP." |  |
+| FD | meld standby voor ET SEP |  |  | "Standby voor ET SEP." |
 |  | PLT | bevestig standby |  | "Roger. Klaar voor ET SEP." |
 | T+0:08:30 | WXT |  | controleer meters | "Snelheid is … voet per seconde, hoogte is … zeemijl, afstand is … zeemijl." |
 | T+0:08:40 | PLT | controleer correcte ET SEP; Indien ET SEP niet gebeurt, ET SEP manueel uitvoeren!! | kijk uit voor ET SEP!! | "Houston, we hebben et separation." |
