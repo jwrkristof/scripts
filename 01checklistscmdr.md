@@ -42,7 +42,7 @@ layout: default
 ## CMDR CHECKLIST # 8: OMS ontsteking # 2
 
 1. Geef OMS-brandstofniveau weer: <kbd>OPS</kbd> 008 <kbd>EXEC</kbd>.
-2. Geef status OMS-motoren weer: <kbd>ITEM</kbd> 301 <kbd>EXEC</kbd>.
+2. Geef status OMS-motoren weer: <kbd>ITEM</kbd> 302 <kbd>EXEC</kbd>.
 3. Zoek "OMS ENG".   (C3)
 4. Schakel "LEFT" en "RIGHT" naar "ARM".  (C3)
 5. Breng het ontstekingsprogramma in: <kbd>ITEM</kbd> 477.
